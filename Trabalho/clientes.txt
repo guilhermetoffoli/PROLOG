@@ -1,0 +1,10 @@
+cliente('Guilherme', 'Rua 12', 354). 
+cliente('Gabriel', 'Rua 9', 678).
+cliente('Felipe', 'Rua 1', 356).
+cliente('Camilla', 'Rua 2', 372).
+cliente('Joao A.', 'Rua 122', 940).
+cliente('Eduardo', 'Rua 22', 284).
+cliente('Amanda', 'Rua 24', 865).
+cliente('Eduarda', 'Rua 5', 736).
+cliente('Isabela', 'Rua 9', 492).
+cliente('Marcos', 'Rua 7', 473).
